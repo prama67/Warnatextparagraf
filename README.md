@@ -1,4 +1,4 @@
-# Warnatextparagraf
+# Color Text Paragraft
 mewarnai text paragraf menggunakan 
 
-<font color="red">hello word</font>
+- ( font color="" )
